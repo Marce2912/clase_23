@@ -17,7 +17,7 @@ app.listen(PORT, () => {
 });
 
 
-// instalar
+// instala
 // npm i mongoose
 // npm i express
 // npm i dotenv
